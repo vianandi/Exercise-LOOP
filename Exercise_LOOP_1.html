@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Exercise - LOOP 1</title>
+</head>
+
+<body>
+    <h1>Daftar User :</h1>
+    <ul id="user"></ul>
+    <script>
+        for (var i = 1; i <= 100; i++) {
+            var list = document.createElement('li');
+            list.innerText = 'User ke - ' + i;
+            document.getElementById('user').appendChild(list);
+        }
+    </script>
+</body>
+
+</html>
