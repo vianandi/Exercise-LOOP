@@ -1,4 +1,4 @@
-34Oktavian Andi Cahya Nugraha (FE - 28)
+Oktavian Andi Cahya Nugraha (FE - 28)
 
 No 1. Program ini akan menampilkan teks 'User ke - 1' sampai 'User ke - 100' pada elemen <ul> dengan id 'user'. Setiap teks akan ditampilkan pada sebuah elemen <li>. Anda dapat mena5bahkan styling pada halaman HTML untuk menampilkan daftar tersebut dengan lebih menarik.
 
